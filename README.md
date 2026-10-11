@@ -18,9 +18,3 @@ An educational robotics platform built by the Great Minds Robotics team. Student
 - **[Obfuscator](https://github.com/NikitaUlianov123/Obfuscator)**: a 5-person team project to obfuscate C# and RobotC code, including an ASCII-art steganography technique that hides executable logic in images, and a custom compiler and VM for RobotC
 - **[AIWorld](https://github.com/NikitaUlianov123/AIWorld)**: a modular AI playground where you plug agents (BFS, DFS, A\*, ExpectiMax, Markov, Q-Learning) into environments (8 Puzzle, a cheese-maze grid, Chancy Tic-Tac-Toe), all written without ML libraries
 - **[ComputerArchitecture](https://github.com/NikitaUlianov123/ComputerArchitecture)**: code from a computer architecture camp
-
-### Other projects
-
-- **OS emulator**: a virtual machine with an MLFQ scheduler, device interrupts, a buddy allocator, a disk with a file system, an interactive shell, and its own small language with `spawn` / `kill` / `wait` built in. Includes a step-through visualizer
-- **Corner Critic**: a Visual Studio extension that shows a file's error and style status in the corner of the editor
-- **[NeuralNetworks](https://github.com/NikitaUlianov123/NeuralNetworks)**, **[DataStructs](https://github.com/NikitaUlianov123/DataStructs)**, **[Chess](https://github.com/NikitaUlianov123/Chess)**: earlier work on neural networks, data structure implementations, and a multiplayer chess game
